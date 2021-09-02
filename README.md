@@ -111,7 +111,7 @@ _लफ़्ज़ों में दाल तोड़ मरोड़ तो नही�
 
 **Output -** "The ghazal follows the rules of urdu ghazal writing".
 
-**Note -** Here i changed the last word of line 6 to show it that it not only checks last rhymes but the whole structure. As it still follows structure of urdu ghazal writing, the model preducts yes.
+**Note -** Here I changed the last word of line 6 to show it that it not only checks last rhymes but the whole structure. As it still follows structure of urdu ghazal writing, the model preducts yes.
 
 ## Future plans
 
