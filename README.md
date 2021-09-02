@@ -79,7 +79,7 @@ _ये कहानियां जो मेरी आँखों में �
 
 _लफ़्ज़ों में दाल तोड़ मरोड़ तो नहीं दोगी"_
 
-**Output -** "The ghazal doesn't follows the rules of urdu ghazal writing. The problem firstly occurs in the line- दर ये है तुम इन्हे मोड़ दोगी"
+**Output -** "The ghazal doesn't follows the rules of urdu ghazal writing. The problem firstly occurs in the line- डर ये है तुम इन्हे मोड़ दोगी"
 
 **Note -** I just removed two words from the previous ghazal and we can see it outputs no with the line from which i removed the words.
 
