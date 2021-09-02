@@ -24,6 +24,7 @@ Dataset was made by taking ghazals of 8 revolutionary poets of urdu language. Th
 ## Examples
 
 **Input -** 
+
 "_वस्ल-ऐ-अहद  फ़ुरक़तों में तोड़ तो नहीं दोगी_
 
 _तुम कहीं मुझे छोड़ तो नहीं दोगी_
@@ -52,7 +53,7 @@ _लफ़्ज़ों में दाल तोड़ मरोड़ तो नही�
 
 **Note -** This ghazal is written by me. And as it follows the rules, the model predicts yes.
 
-**Input - **
+**Input -**
 
 "_वस्ल-ऐ-अहद  फ़ुरक़तों में तोड़ तो नहीं दोगी_
 
@@ -82,7 +83,7 @@ _लफ़्ज़ों में दाल तोड़ मरोड़ तो नही�
 
 **Note -** I just removed two words from the previous ghazal and we can see it outputs no with the line from which i removed the words.
 
-**input - **
+**input -**
 
 "_वस्ल-ऐ-अहद  फ़ुरक़तों में तोड़ तो नहीं दोगी_
 
